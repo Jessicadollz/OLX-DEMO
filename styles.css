@@ -422,6 +422,8 @@ footer div p {
     list-style: none; 
     background-color: #002f34;
     column-gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .footer3 p {
